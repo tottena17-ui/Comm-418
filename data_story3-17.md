@@ -1,0 +1,1 @@
+Here is my data story for today. It is about credit bureaus not being regulated to resolve consumer complaints under the Trump administration. There are some very nice graphs showing the drop in complaints that have been solved in the consumer's favor.  https://www.propublica.org/article/credit-report-mistakes-cfpb-experian-transunion
