@@ -1,0 +1,3 @@
+Here is the link to my story: https://apnews.com/article/artemis-moon-nasa-lunar-flyby-fac19b4b1676af2717adafa992f32be4 
+
+My data story for this week is detailing the Artemis II launch and comparing it to Apollo 13's mission. This story uses data like the speed of the rocket and the distance from the moon. It had great information, images, and quotes. My one compalint is that the article will use numbers without putting them into context like "Venturing as close as 4,067 miles," how is 4,067 miles close? What was the distance with other flights if 4,067 miles was close? This is common in this story, using huge numbers but not comparing it to anything a typical reader could reference. 
